@@ -8,3 +8,5 @@ small change
 Added google oauth
 
 mid changes
+
+Added iOS oAuth
