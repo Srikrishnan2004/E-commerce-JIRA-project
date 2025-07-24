@@ -5,3 +5,5 @@ Description: No description provided.
 The bug fixed.
 
 some mid changes.
+
+In the project docs I have updated that how I fixed the issue
