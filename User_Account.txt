@@ -12,3 +12,5 @@ mid changes
 Added iOS oAuth
 
 updated the readme file and also updated the docs for the project and repo.
+
+Added facebook oAuth login 
