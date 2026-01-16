@@ -1,2 +1,4 @@
 Epic: Shopping Location
 Description: No description provided.
+
+Added the feature for choosing the multiple shopping location

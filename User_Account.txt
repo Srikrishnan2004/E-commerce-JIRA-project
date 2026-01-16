@@ -2,3 +2,15 @@ Epic: User Account
 Description: No description provided.
 
 Additional content.
+Additional content first branch.
+small change
+
+Added google oauth
+
+mid changes
+
+Added iOS oAuth
+
+updated the readme file and also updated the docs for the project and repo.
+
+Added facebook oAuth login 
